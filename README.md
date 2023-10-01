@@ -1,6 +1,6 @@
 ## Hey there! 👋 I'm [Your Name]
 
-Welcome to my GitHub! I'm a passionate web developer creating beautiful and functional websites. Here's a glimpse of my tech stack:
+I'm a passionate tech enthusiast and web developer breaking barriers and codes one line at a time. I'm dedicated to crafting beautiful and functional web applications that elevate the user experience. Here's a glimpse of my tech stack:
 
 🚀 **Languages & Tools:**
 <p align="left">
