@@ -29,7 +29,7 @@ I'm a passionate tech enthusiast and web developer breaking barriers and codes o
 </p>
 
 ### 🌟Projects:
-- [Project 1 - Living Histories: Kefalonia, Greece](https://github.com/YourUsername/Project1): Designed and built a user-friendly, visually appealing web application for my Professional Home Organizing business using HTML/CSS, Javascript and WordPress - enhancing my front-end development and problem-solving skills. Honed my expertise in creating responsive layouts and intuitive navigation, focusing on user experience and aesthetic appeal. Integrated a contact form that collects user input and created interactive elements to deliver a comprehensive user experience
+- [Project 1 - Living Histories: Kefalonia, Greece](https://github.com/cailabridges/project-1-living-histories): Designed and built a user-friendly, visually appealing web application for my Professional Home Organizing business using HTML/CSS, Javascript and WordPress - enhancing my front-end development and problem-solving skills. Honed my expertise in creating responsive layouts and intuitive navigation, focusing on user experience and aesthetic appeal. Integrated a contact form that collects user input and created interactive elements to deliver a comprehensive user experience
   
 - [Project 2 - Neatly Nestled](https://github.com/YourUsername/Project2): Developed a historical website application to document oral histories and cultural practices of Kefalonia, Greece residents. Deployed HTML/CSS and Adobe XD to provide a UI design accessible to the Island’s demographics. Collaborated with a team to create a dynamic user experience includes a location-based organization labels, embedded video interviews and Greek/English translation capabilities.
 
