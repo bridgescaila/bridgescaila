@@ -16,8 +16,8 @@ I'm a passionate tech enthusiast and web developer breaking barriers and codes o
 
 ### 💡Connect with Me:
 [![Email](https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:bridgescaila@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
-[![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caila-b-4b1362135/)
+[![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cailabridges)
 
 <p>Let's connect and build something amazing together! 😊</p> </br>
 
