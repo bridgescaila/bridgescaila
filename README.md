@@ -23,7 +23,7 @@ I'm a passionate tech enthusiast and web developer breaking barriers and codes o
 
 <!-- Buttons -->
 <p align="left">
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="https://cailabridges.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/-Check%20out%20my%20portfolio-333333.svg?style=for-the-badge">
   </a>
 </p>
