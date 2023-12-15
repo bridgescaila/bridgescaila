@@ -1,7 +1,7 @@
 ## Hey there!  I'm Caila Bridges
-Web Developer | Aspiring React Ninja | Vegan Foodie 
+Software Developer | Aspiring React Ninja | Vegan Foodie 
 
-I'm a passionate tech enthusiast and web developer breaking barriers and codes one line at a time. I'm dedicated to crafting beautiful and functional web applications that elevate the user experience. Here's a glimpse of my tech stack:
+I'm a passionate tech enthusiast and Software developer breaking barriers and codes one line at a time. I'm dedicated to crafting beautiful and functional web applications that elevate the user experience. Here's a glimpse of my tech stack:
 
 
 ### 🚀Languages & Tools:
