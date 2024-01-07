@@ -9,11 +9,15 @@ I'm a passionate tech enthusiast and Software developer breaking barriers and co
 [![](https://img.shields.io/badge/HTML-5E5E5E?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
 [![](https://img.shields.io/badge/CSS-5E5E5E?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
 [![](https://img.shields.io/badge/JavaScript-5E5E5E?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-
 [![](https://img.shields.io/badge/Python-5E5E5E?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
+
 [![](https://img.shields.io/badge/React-5E5E5E?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![](https://img.shields.io/badge/Node.js-5E5E5E?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
+
 
 
 ### 💡Connect with Me:
@@ -31,9 +35,11 @@ I'm a passionate tech enthusiast and Software developer breaking barriers and co
 </p>
 
 ### 🌟Projects:
-- [Project 1 - Living Histories: Kefalonia, Greece](https://github.com/cailabridges/project-1-living-histories/blob/main/README.md): Developed a historical website application in collaboration with a research team to document oral histories and cultural practices of Kefalonia, Greece residents. Deployed HTML/CSS and Adobe XD to provide a UI design accessible to the Island’s demographics. Collaborated with a team to create a dynamic user experience includes a location-based organization labels, embedded video interviews and Greek/English translation capabilities.
+- [Soulithic Blog](https://github.com/cailabridges/soulithic-blog/blob/main/README.md): Engineered Soulithic Blog, a secure and dynamic blogging platform using JavaScript (JSX), Express, Node.js, and MySQL. Implemented robust backend authentication and database management, ensuring a secure environment for content creation and management. Prioritized user-friendly functionalities for intuitive content creation, categorization, and modification, enhancing the blogging experience.
+
+- [Living Histories: Kefalonia, Greece](https://github.com/cailabridges/project-1-living-histories/blob/main/README.md): Developed a historical website application in collaboration with a research team to document oral histories and cultural practices of Kefalonia, Greece residents. Deployed HTML/CSS and Adobe XD to provide a UI design accessible to the Island’s demographics. Collaborated with a team to create a dynamic user experience includes a location-based organization labels, embedded video interviews and Greek/English translation capabilities.
   
-- [Project 2 - Mamba Game](https://github.com/cailabridges/project-1-mamba-game/blob/main/README.md): Designed and built the Mamba Game, drawing inspiration from my love for Afro beats and The Lion King. Using Python, I honed my skills and crafted a visually appealing, user-friendly application that seamlessly blends the thrill of the classic snake game with educational elements. By integrating fun facts about green mambas, I transformed gameplay into an interactive learning experience, enhancing my coding abilities while offering players an engaging adventure.
+- [Mamba Game](https://github.com/cailabridges/project-1-mamba-game/blob/main/README.md): Designed and built the Mamba Game, drawing inspiration from my love for Afro beats and The Lion King. Using Python, I honed my skills and crafted a visually appealing, user-friendly application that seamlessly blends the thrill of the classic snake game with educational elements. By integrating fun facts about green mambas, I transformed gameplay into an interactive learning experience, enhancing my coding abilities while offering players an engaging adventure.
 
 
 
