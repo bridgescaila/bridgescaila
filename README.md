@@ -14,8 +14,8 @@ I'm a passionate tech enthusiast and Software developer breaking barriers and co
 
 [![](https://img.shields.io/badge/React-5E5E5E?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![](https://img.shields.io/badge/Node.js-5E5E5E?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![](https://img.shields.io/badge/Express-5E5E5E?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![](https://img.shields.io/badge/MySQL-5E5E5E?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 
 
